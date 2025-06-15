@@ -3,15 +3,15 @@
   "KPlugin": {
     "Authors": [
       {
-        "Email": "kartik",
-        "Name": "kartik.sindura@gmail.com"
+        "Email": "krypton",
+        "Name": "krypton@f5.si"
       }
     ],
     "Category": "",
-    "Description": "Fishbowl for Plasma 6",
-    "Id": "fishy",
-    "License": "GPLv2+",
-    "Name": "Fishbowl"
+    "Description": "Krypton splash screen for Plasma 6",
+    "Id": "krypton",
+    "License": "GPLv3",
+    "Name": "Krypton"
   },
   "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
   "X-Plasma-APIVersion": "2"
